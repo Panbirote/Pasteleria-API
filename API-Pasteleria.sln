@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Pasteleria", "API-Pasteleria\API-Pasteleria.csproj", "{EA829A81-8505-4DA6-8949-0C058386A4DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{96DC7FD7-47B4-496C-AB23-8E4D00062336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA829A81-8505-4DA6-8949-0C058386A4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA829A81-8505-4DA6-8949-0C058386A4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA829A81-8505-4DA6-8949-0C058386A4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA829A81-8505-4DA6-8949-0C058386A4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DC7FD7-47B4-496C-AB23-8E4D00062336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DC7FD7-47B4-496C-AB23-8E4D00062336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DC7FD7-47B4-496C-AB23-8E4D00062336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DC7FD7-47B4-496C-AB23-8E4D00062336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCC6A756-1D10-49E0-A630-4F5CA10D7A83}
+	EndGlobalSection
+EndGlobal

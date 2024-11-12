@@ -1,0 +1,16 @@
+C:\Users\Diego\source\repos\API-Pasteleria\DB\bin\Debug\net8.0\DB.deps.json
+C:\Users\Diego\source\repos\API-Pasteleria\DB\bin\Debug\net8.0\DB.runtimeconfig.json
+C:\Users\Diego\source\repos\API-Pasteleria\DB\bin\Debug\net8.0\DB.dll
+C:\Users\Diego\source\repos\API-Pasteleria\DB\bin\Debug\net8.0\DB.pdb
+C:\Users\Diego\source\repos\API-Pasteleria\DB\obj\Debug\net8.0\DB.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\API-Pasteleria\DB\obj\Debug\net8.0\DB.Recursos.resources
+C:\Users\Diego\source\repos\API-Pasteleria\DB\obj\Debug\net8.0\DB.csproj.GenerateResource.cache
+C:\Users\Diego\source\repos\API-Pasteleria\DB\obj\Debug\net8.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\API-Pasteleria\DB\obj\Debug\net8.0\DB.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\API-Pasteleria\DB\obj\Debug\net8.0\DB.AssemblyInfo.cs
+C:\Users\Diego\source\repos\API-Pasteleria\DB\obj\Debug\net8.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\API-Pasteleria\DB\obj\Debug\net8.0\DB.dll
+C:\Users\Diego\source\repos\API-Pasteleria\DB\obj\Debug\net8.0\refint\DB.dll
+C:\Users\Diego\source\repos\API-Pasteleria\DB\obj\Debug\net8.0\DB.pdb
+C:\Users\Diego\source\repos\API-Pasteleria\DB\obj\Debug\net8.0\DB.genruntimeconfig.cache
+C:\Users\Diego\source\repos\API-Pasteleria\DB\obj\Debug\net8.0\ref\DB.dll

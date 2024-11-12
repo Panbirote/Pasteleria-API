@@ -1,0 +1,6 @@
+@API_Pasteleria_HostAddress = http://localhost:6969
+
+GET {{API_Pasteleria_HostAddress}}/Auth/
+Accept: application/json
+
+###
