@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\API-Pasteleria\\API-Pasteleria.csproj": {}
+    "C:\\Angular\\Pasteleria-API\\API-Pasteleria\\API-Pasteleria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\API-Pasteleria\\API-Pasteleria.csproj": {
+    "C:\\Angular\\Pasteleria-API\\API-Pasteleria\\API-Pasteleria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\API-Pasteleria\\API-Pasteleria.csproj",
+        "projectUniqueName": "C:\\Angular\\Pasteleria-API\\API-Pasteleria\\API-Pasteleria.csproj",
         "projectName": "API-Pasteleria",
-        "projectPath": "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\API-Pasteleria\\API-Pasteleria.csproj",
-        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\API-Pasteleria\\obj\\",
+        "projectPath": "C:\\Angular\\Pasteleria-API\\API-Pasteleria\\API-Pasteleria.csproj",
+        "packagesPath": "C:\\Users\\Panbirote\\.nuget\\packages\\",
+        "outputPath": "C:\\Angular\\Pasteleria-API\\API-Pasteleria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Panbirote\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,19 +27,17 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/igasmxproyectos/_packaging/igasmxproyectos/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/igasmxv5/_packaging/igasmxv5/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\Core\\Core.csproj"
+              "C:\\Angular\\Pasteleria-API\\Core\\Core.csproj": {
+                "projectPath": "C:\\Angular\\Pasteleria-API\\Core\\Core.csproj"
               },
-              "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\DB\\DB.csproj": {
-                "projectPath": "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\DB\\DB.csproj"
+              "C:\\Angular\\Pasteleria-API\\DB\\DB.csproj": {
+                "projectPath": "C:\\Angular\\Pasteleria-API\\DB\\DB.csproj"
               }
             }
           }
@@ -99,24 +97,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\Core\\Core.csproj": {
+    "C:\\Angular\\Pasteleria-API\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Angular\\Pasteleria-API\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\Core\\obj\\",
+        "projectPath": "C:\\Angular\\Pasteleria-API\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Panbirote\\.nuget\\packages\\",
+        "outputPath": "C:\\Angular\\Pasteleria-API\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Panbirote\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -126,9 +124,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/igasmxproyectos/_packaging/igasmxproyectos/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/igasmxv5/_packaging/igasmxv5/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -172,24 +168,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\DB\\DB.csproj": {
+    "C:\\Angular\\Pasteleria-API\\DB\\DB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\DB\\DB.csproj",
+        "projectUniqueName": "C:\\Angular\\Pasteleria-API\\DB\\DB.csproj",
         "projectName": "DB",
-        "projectPath": "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\DB\\DB.csproj",
-        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\source\\repos\\API-Pasteleria\\DB\\obj\\",
+        "projectPath": "C:\\Angular\\Pasteleria-API\\DB\\DB.csproj",
+        "packagesPath": "C:\\Users\\Panbirote\\.nuget\\packages\\",
+        "outputPath": "C:\\Angular\\Pasteleria-API\\DB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Panbirote\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -199,9 +195,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/igasmxproyectos/_packaging/igasmxproyectos/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/igasmxv5/_packaging/igasmxv5/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -265,7 +259,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
