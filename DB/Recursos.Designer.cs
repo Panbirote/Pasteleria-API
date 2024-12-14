@@ -59,5 +59,61 @@ namespace DB {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CREATE TABLE InventarioMateriaPrima (
+        ///	IdMateriaPrima INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+        ///    Descripcion VARCHAR(255),
+        ///    Entradas INT DEFAULT 0,
+        ///    Salidas INT DEFAULT 0,
+        ///    StockActual INT DEFAULT 0,
+        ///    UnidadMedida VARCHAR(50));
+        ///GO
+        ///
+        ///CREATE TABLE Recetas (
+        ///	IdReceta INT IDENTITY (1,1) PRIMARY KEY NOT NULL,
+        ///    NombreReceta VARCHAR(255),
+        ///    Descripcion VARCHAR(500));
+        ///GO
+        ///
+        ///CREATE TABLE RecetasDetalle (
+        ///	IdReceta INT NOT NULL FOREIGN KEY REFERENCES Recetas(IdReceta),
+        ///    IdMateriaPrima INT NOT NULL  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string BD_Pasteleria_DDL {
+            get {
+                return ResourceManager.GetString("BD_Pasteleria_DDL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to /* Materia prima */
+        ///-- Select
+        ///Create or Alter Procedure SelectInventarioMateriaPrimaById
+        ///    @IdMateriaPrima INT
+        ///AS
+        ///BEGIN
+        ///    SELECT IdMateriaPrima, Descripcion, Entradas, Salidas, StockActual, UnidadMedida
+        ///    FROM InventarioMateriaPrima
+        ///    WHERE IdMateriaPrima = @IdMateriaPrima;
+        ///END;
+        ///GO
+        ///
+        ///--SelectAll
+        ///Create or Alter Procedure SelectAllInventarioMateriaPrima
+        ///AS
+        ///BEGIN
+        ///    SELECT IdMateriaPrima, Descripcion, Entradas, Salidas, StockActual, UnidadMedida
+        ///    FROM InventarioMateriaPrima;
+        ///END;
+        ///GO
+        ///
+        ///- [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string BD_Pasteleria_DML {
+            get {
+                return ResourceManager.GetString("BD_Pasteleria_DML", resourceCulture);
+            }
+        }
     }
 }

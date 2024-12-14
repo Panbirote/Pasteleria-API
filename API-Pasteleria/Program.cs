@@ -25,6 +25,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddTransient<IPasteleriaRepository, PasteleriaRepository>();
+
 var app = builder.Build();
 
 app.MapIdentityApi<IdentityUser>();

@@ -3,12 +3,76 @@
   "WorkspaceRootPath": "C:\\Angular\\Pasteleria-API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}|Core\\Core.csproj|c:\\angular\\pasteleria-api\\core\\interfaces\\ipasteleriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}|Core\\Core.csproj|solutionrelative:core\\interfaces\\ipasteleriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}|Core\\Core.csproj|c:\\angular\\pasteleria-api\\core\\models\\pedidosdetallemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}|Core\\Core.csproj|solutionrelative:core\\models\\pedidosdetallemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}|Core\\Core.csproj|c:\\angular\\pasteleria-api\\core\\models\\clientesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}|Core\\Core.csproj|solutionrelative:core\\models\\clientesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}|Core\\Core.csproj|c:\\angular\\pasteleria-api\\core\\models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}|Core\\Core.csproj|solutionrelative:core\\models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}|Core\\Core.csproj|c:\\angular\\pasteleria-api\\core\\models\\productosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}|Core\\Core.csproj|solutionrelative:core\\models\\productosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}|Core\\Core.csproj|c:\\angular\\pasteleria-api\\core\\models\\recetamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}|Core\\Core.csproj|solutionrelative:core\\models\\recetamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}|Core\\Core.csproj|c:\\angular\\pasteleria-api\\core\\models\\materiaprimamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF72415-E5CC-47DD-92A4-BFA2EEE90843}|Core\\Core.csproj|solutionrelative:core\\models\\materiaprimamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DC7FD7-47B4-496C-AB23-8E4D00062336}|DB\\DB.csproj|c:\\angular\\pasteleria-api\\db\\resources\\bd-pasteleria-ddl.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{96DC7FD7-47B4-496C-AB23-8E4D00062336}|DB\\DB.csproj|solutionrelative:db\\resources\\bd-pasteleria-ddl.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DC7FD7-47B4-496C-AB23-8E4D00062336}|DB\\DB.csproj|c:\\angular\\pasteleria-api\\db\\migrations\\20241128183151_m2_storedprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DC7FD7-47B4-496C-AB23-8E4D00062336}|DB\\DB.csproj|solutionrelative:db\\migrations\\20241128183151_m2_storedprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DC7FD7-47B4-496C-AB23-8E4D00062336}|DB\\DB.csproj|C:\\Angular\\Pasteleria-API\\db\\recursos.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{96DC7FD7-47B4-496C-AB23-8E4D00062336}|DB\\DB.csproj|solutionrelative:db\\recursos.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA829A81-8505-4DA6-8949-0C058386A4DE}|API-Pasteleria\\API-Pasteleria.csproj|c:\\angular\\pasteleria-api\\api-pasteleria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA829A81-8505-4DA6-8949-0C058386A4DE}|API-Pasteleria\\API-Pasteleria.csproj|solutionrelative:api-pasteleria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{96DC7FD7-47B4-496C-AB23-8E4D00062336}|DB\\DB.csproj|c:\\angular\\pasteleria-api\\db\\migrations\\20241126192712_m1_estructurabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DC7FD7-47B4-496C-AB23-8E4D00062336}|DB\\DB.csproj|solutionrelative:db\\migrations\\20241126192712_m1_estructurabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA829A81-8505-4DA6-8949-0C058386A4DE}|API-Pasteleria\\API-Pasteleria.csproj|c:\\angular\\pasteleria-api\\api-pasteleria\\repositories\\conexiondbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA829A81-8505-4DA6-8949-0C058386A4DE}|API-Pasteleria\\API-Pasteleria.csproj|solutionrelative:api-pasteleria\\repositories\\conexiondbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA829A81-8505-4DA6-8949-0C058386A4DE}|API-Pasteleria\\API-Pasteleria.csproj|c:\\angular\\pasteleria-api\\api-pasteleria\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA829A81-8505-4DA6-8949-0C058386A4DE}|API-Pasteleria\\API-Pasteleria.csproj|solutionrelative:api-pasteleria\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DC7FD7-47B4-496C-AB23-8E4D00062336}|DB\\DB.csproj|c:\\angular\\pasteleria-api\\db\\migrations\\20241105230250_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DC7FD7-47B4-496C-AB23-8E4D00062336}|DB\\DB.csproj|solutionrelative:db\\migrations\\20241105230250_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA829A81-8505-4DA6-8949-0C058386A4DE}|API-Pasteleria\\API-Pasteleria.csproj|c:\\angular\\pasteleria-api\\api-pasteleria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA829A81-8505-4DA6-8949-0C058386A4DE}|API-Pasteleria\\API-Pasteleria.csproj|solutionrelative:api-pasteleria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA829A81-8505-4DA6-8949-0C058386A4DE}|API-Pasteleria\\API-Pasteleria.csproj|c:\\angular\\pasteleria-api\\api-pasteleria\\controllers\\pasteleriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA829A81-8505-4DA6-8949-0C058386A4DE}|API-Pasteleria\\API-Pasteleria.csproj|solutionrelative:api-pasteleria\\controllers\\pasteleriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA829A81-8505-4DA6-8949-0C058386A4DE}|API-Pasteleria\\API-Pasteleria.csproj|c:\\angular\\pasteleria-api\\api-pasteleria\\repositories\\pasteleriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA829A81-8505-4DA6-8949-0C058386A4DE}|API-Pasteleria\\API-Pasteleria.csproj|solutionrelative:api-pasteleria\\repositories\\pasteleriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 30,
+          "SelectedChildIndex": 37,
           "Children": [
             {
               "$type": "Bookmark",
@@ -141,21 +205,204 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PasteleriaController.cs",
+              "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\API-Pasteleria\\Controllers\\PasteleriaController.cs",
+              "RelativeDocumentMoniker": "API-Pasteleria\\Controllers\\PasteleriaController.cs",
+              "ToolTip": "C:\\Angular\\Pasteleria-API\\API-Pasteleria\\Controllers\\PasteleriaController.cs",
+              "RelativeToolTip": "API-Pasteleria\\Controllers\\PasteleriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:18:17.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidosDetalleModel.cs",
+              "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\Core\\Models\\PedidosDetalleModel.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\PedidosDetalleModel.cs",
+              "ToolTip": "C:\\Angular\\Pasteleria-API\\Core\\Models\\PedidosDetalleModel.cs",
+              "RelativeToolTip": "Core\\Models\\PedidosDetalleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:05:22.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesModel.cs",
+              "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\Core\\Models\\ClientesModel.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\ClientesModel.cs",
+              "ToolTip": "C:\\Angular\\Pasteleria-API\\Core\\Models\\ClientesModel.cs",
+              "RelativeToolTip": "Core\\Models\\ClientesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:54:36.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidosModel.cs",
+              "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\Core\\Models\\PedidosModel.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\PedidosModel.cs",
+              "ToolTip": "C:\\Angular\\Pasteleria-API\\Core\\Models\\PedidosModel.cs",
+              "RelativeToolTip": "Core\\Models\\PedidosModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:54:04.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductosModel.cs",
+              "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\Core\\Models\\ProductosModel.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\ProductosModel.cs",
+              "ToolTip": "C:\\Angular\\Pasteleria-API\\Core\\Models\\ProductosModel.cs",
+              "RelativeToolTip": "Core\\Models\\ProductosModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:50:04.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecetaModel.cs",
+              "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\Core\\Models\\RecetaModel.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\RecetaModel.cs",
+              "ToolTip": "C:\\Angular\\Pasteleria-API\\Core\\Models\\RecetaModel.cs",
+              "RelativeToolTip": "Core\\Models\\RecetaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:46:07.422Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IPasteleriaRepository.cs",
+              "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\Core\\Interfaces\\IPasteleriaRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IPasteleriaRepository.cs",
+              "ToolTip": "C:\\Angular\\Pasteleria-API\\Core\\Interfaces\\IPasteleriaRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IPasteleriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:42:34.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BD-Pasteleria-DDL.sql",
+              "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\DB\\Resources\\BD-Pasteleria-DDL.sql",
+              "RelativeDocumentMoniker": "DB\\Resources\\BD-Pasteleria-DDL.sql",
+              "ToolTip": "C:\\Angular\\Pasteleria-API\\DB\\Resources\\BD-Pasteleria-DDL.sql",
+              "RelativeToolTip": "DB\\Resources\\BD-Pasteleria-DDL.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-02T20:32:44.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MateriaPrimaModel.cs",
+              "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\Core\\Models\\MateriaPrimaModel.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\MateriaPrimaModel.cs",
+              "ToolTip": "C:\\Angular\\Pasteleria-API\\Core\\Models\\MateriaPrimaModel.cs",
+              "RelativeToolTip": "Core\\Models\\MateriaPrimaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:43:51.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PasteleriaRepository.cs",
+              "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\API-Pasteleria\\Repositories\\PasteleriaRepository.cs",
+              "RelativeDocumentMoniker": "API-Pasteleria\\Repositories\\PasteleriaRepository.cs",
+              "ToolTip": "C:\\Angular\\Pasteleria-API\\API-Pasteleria\\Repositories\\PasteleriaRepository.cs",
+              "RelativeToolTip": "API-Pasteleria\\Repositories\\PasteleriaRepository.cs",
+              "ViewState": "AQIAADEDAAAAAAAAAAAawEIDAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:42:15.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConexionDBRepository.cs",
+              "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\API-Pasteleria\\Repositories\\ConexionDBRepository.cs",
+              "RelativeDocumentMoniker": "API-Pasteleria\\Repositories\\ConexionDBRepository.cs",
+              "ToolTip": "C:\\Angular\\Pasteleria-API\\API-Pasteleria\\Repositories\\ConexionDBRepository.cs",
+              "RelativeToolTip": "API-Pasteleria\\Repositories\\ConexionDBRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:41:42.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241128183151_M2_StoredProcedures.cs",
+              "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\DB\\Migrations\\20241128183151_M2_StoredProcedures.cs",
+              "RelativeDocumentMoniker": "DB\\Migrations\\20241128183151_M2_StoredProcedures.cs",
+              "ToolTip": "C:\\Angular\\Pasteleria-API\\DB\\Migrations\\20241128183151_M2_StoredProcedures.cs",
+              "RelativeToolTip": "DB\\Migrations\\20241128183151_M2_StoredProcedures.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:31:51.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241126192712_M1_EstructuraBD.cs",
+              "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\DB\\Migrations\\20241126192712_M1_EstructuraBD.cs",
+              "RelativeDocumentMoniker": "DB\\Migrations\\20241126192712_M1_EstructuraBD.cs",
+              "ToolTip": "C:\\Angular\\Pasteleria-API\\DB\\Migrations\\20241126192712_M1_EstructuraBD.cs",
+              "RelativeToolTip": "DB\\Migrations\\20241126192712_M1_EstructuraBD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:27:12.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241105230250_initialCreate.cs",
+              "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\DB\\Migrations\\20241105230250_initialCreate.cs",
+              "RelativeDocumentMoniker": "DB\\Migrations\\20241105230250_initialCreate.cs",
+              "ToolTip": "C:\\Angular\\Pasteleria-API\\DB\\Migrations\\20241105230250_initialCreate.cs",
+              "RelativeToolTip": "DB\\Migrations\\20241105230250_initialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:59:44.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\API-Pasteleria\\appsettings.json",
+              "RelativeDocumentMoniker": "API-Pasteleria\\appsettings.json",
+              "ToolTip": "C:\\Angular\\Pasteleria-API\\API-Pasteleria\\appsettings.json",
+              "RelativeToolTip": "API-Pasteleria\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T21:32:15.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\API-Pasteleria\\Program.cs",
               "RelativeDocumentMoniker": "API-Pasteleria\\Program.cs",
               "ToolTip": "C:\\Angular\\Pasteleria-API\\API-Pasteleria\\Program.cs",
               "RelativeToolTip": "API-Pasteleria\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T18:54:35.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T18:54:35.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\API-Pasteleria\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "API-Pasteleria\\Controllers\\AuthController.cs",
@@ -164,6 +411,17 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T15:34:37.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Recursos.resx",
+              "DocumentMoniker": "C:\\Angular\\Pasteleria-API\\DB\\Recursos.resx",
+              "RelativeDocumentMoniker": "DB\\Recursos.resx",
+              "ToolTip": "C:\\Angular\\Pasteleria-API\\DB\\Recursos.resx",
+              "RelativeToolTip": "DB\\Recursos.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-26T19:09:42.25Z"
             }
           ]
         }

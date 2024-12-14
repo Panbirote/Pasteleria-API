@@ -198,6 +198,392 @@
     ]
   },
   {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "DeleteCliente",
+    "RelativePath": "Pasteleria/DeleteCliente",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "DeleteMateriaPrima",
+    "RelativePath": "Pasteleria/DeleteMateriaPrima",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "DeletePedido",
+    "RelativePath": "Pasteleria/DeletePedido",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "DeleteProducto",
+    "RelativePath": "Pasteleria/DeleteProducto",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "DeleteReceta",
+    "RelativePath": "Pasteleria/DeleteReceta",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "GetAllClientes",
+    "RelativePath": "Pasteleria/GetAllClientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "GetAllMateriaPrima",
+    "RelativePath": "Pasteleria/GetAllMateriasPrimas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "GetAllPedidos",
+    "RelativePath": "Pasteleria/GetAllPedidos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "GetPedidosByIdCliente",
+    "RelativePath": "Pasteleria/GetAllPedidosByIdCliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCliente",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "GetAllProductos",
+    "RelativePath": "Pasteleria/GetAllProductos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "GetAllRecetas",
+    "RelativePath": "Pasteleria/GetAllRecetas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "GetClientesById",
+    "RelativePath": "Pasteleria/GetClienteById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "GetMateriaPrima",
+    "RelativePath": "Pasteleria/GetMateriaPrimaById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "GetPedidoById",
+    "RelativePath": "Pasteleria/GetPedidoById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "GetProductoById",
+    "RelativePath": "Pasteleria/GetProductoById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "GetRecetaById",
+    "RelativePath": "Pasteleria/GetRecetaById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "InsertCliente",
+    "RelativePath": "Pasteleria/InsertCliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cliente",
+        "Type": "Core.Models.ClientesModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "InsertMateriaPrima",
+    "RelativePath": "Pasteleria/InsertMateriaPrima",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "materiaPrima",
+        "Type": "Core.Models.MateriaPrimaModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "InsertPedido",
+    "RelativePath": "Pasteleria/InsertPedido",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedido",
+        "Type": "Core.Models.PedidosModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "InsertProducto",
+    "RelativePath": "Pasteleria/InsertProducto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "producto",
+        "Type": "Core.Models.ProductosModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "InsertReceta",
+    "RelativePath": "Pasteleria/InsertReceta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "receta",
+        "Type": "Core.Models.RecetaModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "UpdateCliente",
+    "RelativePath": "Pasteleria/UpdateCliente",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cliente",
+        "Type": "Core.Models.ClientesModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "UpdateMateriaPrima",
+    "RelativePath": "Pasteleria/UpdateMateriaPrima",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "materiaPrima",
+        "Type": "Core.Models.MateriaPrimaModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "UpdatePedido",
+    "RelativePath": "Pasteleria/UpdatePedido",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedido",
+        "Type": "Core.Models.PedidosModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "UpdateProducto",
+    "RelativePath": "Pasteleria/UpdateProducto",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "producto",
+        "Type": "Core.Models.ProductosModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pasteleria.Controllers.PasteleriaController",
+    "Method": "UpdateReceta",
+    "RelativePath": "Pasteleria/UpdateReceta",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "receta",
+        "Type": "Core.Models.RecetaModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Microsoft.AspNetCore.Routing.IdentityApiEndpointRouteBuilderExtensions\u002B\u003C\u003Ec__DisplayClass1_0\u00601[[Microsoft.AspNetCore.Identity.IdentityUser, Microsoft.Extensions.Identity.Stores, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
     "Method": "\u003CMapIdentityApi\u003Eb__2",
     "RelativePath": "refresh",
